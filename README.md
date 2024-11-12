@@ -1,4 +1,4 @@
-# IT-Academy-S2.01- MySQL Queries
+# IT-Academy-S2.02- MySQL Queries
 
 ## Base de dades Tienda
 
