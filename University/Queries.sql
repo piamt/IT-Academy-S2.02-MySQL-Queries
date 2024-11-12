@@ -1,3 +1,5 @@
+USE universidad;
+
 #Query 1
 SELECT CONCAT(apellido1, ' ', apellido2, ' ', nombre) AS 'Alumnos'
 FROM persona

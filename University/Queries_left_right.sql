@@ -1,3 +1,5 @@
+USE universidad;
+
 #Query 1
 SELECT 
 departamento.nombre AS 'Department',

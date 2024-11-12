@@ -1,3 +1,5 @@
+USE universidad;
+
 #Query 1
 SELECT COUNT(id) AS 'Number of students'
 FROM persona

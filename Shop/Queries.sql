@@ -1,3 +1,5 @@
+USE tienda;
+
 #Query 1
 SELECT nombre 
 AS 'Products name'
